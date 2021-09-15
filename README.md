@@ -1,2 +1,7 @@
 # CUB3D-2021
-The project cub3D is about raycasting. The aim is to create a map and be able to move inside the map like in a FPS. In a configuration file (map.cub) the user must be able to change the textures on the different walls, the colors of the floor and ceiling (in RGB), the map and where you land in the map at first. I did my cub3D in September 2021.  
+Cub3D graded 105 by my peers on September 14, 2021 with the norm 3.3.32. The minilibx and its flags in the makefile are configured to work on LINUX. 
+In this repo, you will find :
+- SUBJECT-CUB3D-en.pdf : the subject in english
+- FINAL-CUB3D : where all the code is
+
+To launch, `cd FINAL-CUB3D` then `make && ./cub3D map.cub` (in a Linux environement). The config file for the map is called map.cub. 
