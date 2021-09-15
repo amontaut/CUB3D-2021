@@ -1,5 +1,6 @@
 # CUB3D-2021
 Cub3D graded 105 by my peers on September 14, 2021 with the norm 3.3.32. The minilibx and its flags in the makefile are configured to work on LINUX. 
+
 In this repo, you will find :
 - SUBJECT-CUB3D-en.pdf : the subject in english
 - FINAL-CUB3D : where all the code is
