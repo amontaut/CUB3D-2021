@@ -6,3 +6,5 @@ In this repo, you will find :
 - FINAL-CUB3D : where all the code is
 
 To launch, `cd FINAL-CUB3D` then `make && ./cub3D map.cub` (in a Linux environement). The config file for the map is called map.cub. 
+
+*(files will be imported after my yoga)*
