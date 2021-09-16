@@ -6,3 +6,5 @@ In this repo, you will find :
 - FINAL-cub3d : where all the code is
 
 To launch, run `cd FINAL-CUB3D` then `make && ./cub3D map.cub` (in a Linux environement). The config file for the map is called map.cub. Feel free to change the map, the floor (F) and ceiling (C)'s color, the textures path (NO, SO, EA, WE) (in xpm format).
+
+![GitHub repo size](https://img.shields.io/github/repo-size/amontaut/CUB3D-2021?style=for-the-badge)
